@@ -1,24 +1,5 @@
 
- [![](https://brand.ncsu.edu/assets/logos/ncstate-type-2x1-blk-min.png)](https://www.stat.ncsu.edu/) 
 
-*   [Resources](#)
-    *   [Gmail](https://gmail.ncsu.edu/)
-    *   [Library](https://www.lib.ncsu.edu/)
-    *   [MyPack](https://mypack.ncsu.edu/)
-    
-    *   [NCSU R](https://www.stat.ncsu.edu/computing/R.php)
-
-*   [\[Home\]](index.html)
-*   [\[Publication\]](publication.html)
-*   [\[Teaching\]](teaching.html)
-*   [\[Software\]](software.html)
-*   [\[Misc. Links\]](#)
-    *   [About R](aboutR.html)
-    *   [CV](MaityCV.html)
-
-  
-
-![](images/portrait.jpg)
 
 ### Arnab Maity
 
